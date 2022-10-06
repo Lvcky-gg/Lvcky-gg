@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lvcky-gg&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvcky-gg&theme=blue-green)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Lvcky-gg/Lvcky-gg/edit/main/README.md)
