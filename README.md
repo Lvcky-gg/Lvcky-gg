@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lvcky-gg&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvcky-gg&theme=blue-green)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Lvcky-gg)
