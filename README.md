@@ -17,6 +17,7 @@
 [![Rust](https://img.shields.io/badge/rust-ff0066?style=for-the-badge&logo=rust&logoColor=white)](https://doc.rust-lang.org/beta/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [!![HTML5](https://img.shields.io/badge/html5-ff0066?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%23404d59.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 
