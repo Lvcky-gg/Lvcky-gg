@@ -12,6 +12,7 @@
 [![NodeJS](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs)
 [![Database - Postgres](https://img.shields.io/badge/postgres-ff0066?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/javascript-ff0066?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
