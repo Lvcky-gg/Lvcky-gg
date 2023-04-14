@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/lvcky-gg)
 
 
-[![OS - Arch](https://img.shields.io/badge/OS-Arch-ff0066?style=for-the-badge&logo=ArchLinux)](https://archlinux.org/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
 [![Editor - Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-ff0066?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Browser - Brave](https://img.shields.io/badge/Brave-ff0066?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
