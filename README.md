@@ -6,7 +6,7 @@
 
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-%23404d59.svg?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
-[![Editor - Visual Studio Code](https://img.shields.io/badge/Editor-VS%20Code-ff0066?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-ff0066?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Browser - Brave](https://img.shields.io/badge/Brave-ff0066?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
 [![NodeJS](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs)
