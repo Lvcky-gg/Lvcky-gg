@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Lvcky-gg&show_icons=true)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Lvcky-gg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
