@@ -21,6 +21,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-ff0066?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 [![Docker](https://img.shields.io/badge/docker-%23404d59.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-ff0066?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Flask](https://img.shields.io/badge/flask-%23404d59.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 
 
 
