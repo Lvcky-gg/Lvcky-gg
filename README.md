@@ -11,6 +11,7 @@
 [![Browser - Brave](https://img.shields.io/badge/Brave-ff0066?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
 [![NodeJS](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs)
 [![Database - Postgres](https://img.shields.io/badge/postgres-ff0066?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 
 
 
