@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Lvcky-gg's github stats](https://github-readme-stats.vercel.app/api?username=lkd70&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true)](https://github.com/lkd70/)
+[![Lvcky-gg's github stats](https://github-readme-stats.vercel.app/api?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true)](https://github.com/lvcky-gg/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkd70&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/lkd70)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/lvcky-gg)
 
 
 [![OS - Arch](https://img.shields.io/badge/OS-Arch-ff0066?style=for-the-badge&logo=ArchLinux)](https://archlinux.org/)
