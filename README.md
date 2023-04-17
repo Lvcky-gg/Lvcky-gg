@@ -47,6 +47,7 @@
 [![Git](https://img.shields.io/badge/git-ff0066?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![Flask](https://img.shields.io/badge/flask-%23404d59.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-ff0066?style=for-the-badge&logo=bootstrap&logoColor=white)](https://react-bootstrap.github.io/)
+[![Fedora](https://img.shields.io/badge/Fedora-%23404d59.svg?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 
 
 
