@@ -26,6 +26,8 @@
 [![Flask](https://img.shields.io/badge/flask-%23404d59.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-ff0066?style=for-the-badge&logo=bootstrap&logoColor=white)](https://react-bootstrap.github.io/)
 [![Fedora](https://img.shields.io/badge/Fedora-%23404d59.svg?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![SQLite](https://img.shields.io/badge/sqlite-ff0066?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
+[![Jinja](https://img.shields.io/badge/jinja-%23404d59.svg?style=for-the-badge&logo=jinja&logoColor=black)](https://jinja.palletsprojects.com/en/3.1.x/)
 
 
 
