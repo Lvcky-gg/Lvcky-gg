@@ -32,7 +32,7 @@
 [![Nodemon](https://img.shields.io/badge/NODEMON-%23404d59.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
 [![Render](https://img.shields.io/badge/Render-ff0066?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23404d59.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
+[![MUI](https://img.shields.io/badge/MUI-ff0066?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
 
 
