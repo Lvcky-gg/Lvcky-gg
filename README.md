@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Lvcky-gg's github stats](https://readmestats.999857.xyz/api/readme-stats-URL/api?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true)](https://github.com/lvcky-gg/)
+[![Lvcky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvcky-gg&show_icons=true&theme=cobalt)](https://github.com/lvcky-gg/)
 
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=10)](https://github.com/lvcky-gg)
 
