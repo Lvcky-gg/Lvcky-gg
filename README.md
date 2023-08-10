@@ -3,13 +3,32 @@
 Hi there 👋
 </h1>
 
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/lvcky-gg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
+
+
+```javascript
+const JohnOdonnell = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
+  tools: [React, Redux, Node, Flask, Express, Sequelize, Docker, Django],
+  OS: "Fedora":{
+    "OS":"Fedora Linux 38",
+    "GUI":"Gnome44",
+    "Shell":"ZSH 5.9",
+    "WM Theme":"Adwaita",
+    "Theme":"WhiteSur-Dark-nord",
+    "Icons":"Nordzy--dark_panel",
+    "Terminal":"gnome-terminal",
+    "CPU":"I7-7700k",
+    "GPU":"GTX 1070",
+    "Memory":"7616MiB"
+    
+  }
+}
+```
 
 
 
