@@ -13,7 +13,7 @@ Hi there 👋
 const JohnOdonnell = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
-  "main frameworks/libraries": [React, Redux, Node, Flask, Express, Sequelize, Docker, Django, Diesel, Rocket],
+  mainFrameworksAndLibraries: [React, Redux, Node, Flask, Express, Sequelize, Docker, Django, Diesel, Rocket],
   OS: "Fedora":{
     "OS":"Fedora Linux 38",
     "GUI":"Gnome44",
@@ -28,17 +28,17 @@ const JohnOdonnell = {
     "Extensions":["Aylu's Widgets","Blur My Shell","Circular Widgets","Coverflow alt-tab","Dash to Dock","Desktop Cube","GS Connection","Just Perfection","Rounded Corners", "Rounded Window Corners", "User Themes"]
     
   },
-  "IDE":{
+  IDE:{
       "Name":"VS Code",
       "Extensions":["Atom Theme", "Background":{"Images":"anime theme"}, "Auto Rename Tag","autopep8","c/c++","Django",
       "Docker","Postman","ES7 React","Github copilot","gitignore", "html css support","Prettier","Python", "Rust"]
       
     },
-  "Browser":{
+  Browser:{
       "name":"Brave",
       "Extensions":["Pesticide", "React Dev Tools", "Redux Dev Tools"]
   },
-  "Music":"Spotify"
+  Music:"Spotify"
   
 }
 ```
