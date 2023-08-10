@@ -1,7 +1,7 @@
-### Hi there 👋
-<p align="center">
-## Hello
-</p>
+
+<h1 align="center">
+Hi there 👋
+</h1>
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true)](https://git.io/streak-stats)
