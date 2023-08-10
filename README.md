@@ -9,7 +9,7 @@ Hi there 👋
 
 <div style="text-align: center;">
 
-![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/lvcky-gg)
 
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/lvcky-gg)
