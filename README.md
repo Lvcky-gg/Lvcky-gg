@@ -13,7 +13,7 @@ Hi there 👋
 const JohnOdonnell = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
-  tools: [React, Redux, Node, Flask, Express, Sequelize, Docker, Django],
+  "main frameworks/libraries": [React, Redux, Node, Flask, Express, Sequelize, Docker, Django, Diesel, Rocket],
   OS: "Fedora":{
     "OS":"Fedora Linux 38",
     "GUI":"Gnome44",
