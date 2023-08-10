@@ -27,7 +27,13 @@ const JohnOdonnell = {
     "Memory":"7616MiB",
     "Extensions":["Aylu's Widgets","Blur My Shell","Circular Widgets","Coverflow alt-tab","Dash to Dock","Desktop Cube","GS Connection","Just Perfection","Rounded Corners", "Rounded Window Corners", "User Themes"]
     
-  }
+  },
+  "IDE":{
+      "Name":"VS Code",
+      "Extensions":["Atom Theme", "Background":{"Images":"anime theme"},]
+      
+    }
+  
 }
 ```
 
