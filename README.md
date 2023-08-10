@@ -30,9 +30,15 @@ const JohnOdonnell = {
   },
   "IDE":{
       "Name":"VS Code",
-      "Extensions":["Atom Theme", "Background":{"Images":"anime theme"},]
+      "Extensions":["Atom Theme", "Background":{"Images":"anime theme"}, "Auto Rename Tag","autopep8","c/c++","Django",
+      "Docker","Postman","ES7 React","Github copilot","gitignore", "html css support","Prettier","Python", "Rust"]
       
-    }
+    },
+  "Browser":{
+      "name":"Brave",
+      "Extensions":["Pesticide", "React Dev Tools", "Redux Dev Tools"]
+  },
+  "Music":"Spotify"
   
 }
 ```
