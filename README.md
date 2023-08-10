@@ -24,7 +24,8 @@ const JohnOdonnell = {
     "Terminal":"gnome-terminal",
     "CPU":"I7-7700k",
     "GPU":"GTX 1070",
-    "Memory":"7616MiB"
+    "Memory":"7616MiB",
+    "Extensions":["Aylu's Widgets","Blur My Shell","Circular Widgets","Coverflow alt-tab","Dash to Dock","Desktop Cube","GS Connection","Just Perfection","Rounded Corners", "Rounded Window Corners", "User Themes"]
     
   }
 }
