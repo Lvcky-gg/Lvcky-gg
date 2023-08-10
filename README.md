@@ -45,7 +45,7 @@ const JohnOdonnell = {
 
 
 
-[![Arch](https://img.shields.io/badge/Arch%20Linux-%4c566a?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-%4c566a?logo=arch-linux&logoColor=4c566a&style=for-the-badge)](https://archlinux.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-#4C566A?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Express.js](https://img.shields.io/badge/express.js-#4C566A?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Browser - Brave](https://img.shields.io/badge/Brave-#4C566A?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/download/)
