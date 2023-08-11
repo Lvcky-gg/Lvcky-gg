@@ -11,7 +11,6 @@ Hi there 👋
 
 ```javascript
 const JohnOdonnell = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
   mainFrameworksAndLibraries: [React, Redux, Node, Flask, Express, Sequelize, Docker, Django, Diesel, Rocket],
   OS: "Fedora":{
