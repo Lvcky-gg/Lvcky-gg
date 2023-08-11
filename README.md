@@ -39,7 +39,7 @@ const JohnOdonnell = {
       "name":"Brave",
       "Extensions":["Pesticide", "React Dev Tools", "Redux Dev Tools"]
   },
-Peripherals:{
+  Peripherals:{
       "Keyboard":{
           "GMMK":"Custom Keyboard",
           "Caps":"PBT",
@@ -47,8 +47,8 @@ Peripherals:{
           },
       "Mouse":"Final Mouse",
       "Microphone":"Blue Yeti Pro"
-},
-Music:"Spotify"
+  },
+  Music:"Spotify"
   
 }
 ```
