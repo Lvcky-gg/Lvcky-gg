@@ -39,7 +39,16 @@ const JohnOdonnell = {
       "name":"Brave",
       "Extensions":["Pesticide", "React Dev Tools", "Redux Dev Tools"]
   },
-  Music:"Spotify"
+Peripherals:{
+      "Keyboard":{
+          "GMMK":"Custom Keyboard",
+          "Caps":"PBT",
+          "Switches:"Gateron Black Ink"
+          },
+      "Mouse":"Final Mouse",
+      "Microphone":"Blue Yeti Pro"
+},
+Music:"Spotify"
   
 }
 ```
