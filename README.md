@@ -48,7 +48,7 @@ const JohnOdonnell = {
       "Mouse":"Final Mouse",
       "Microphone":"Blue Yeti Pro"
   },
-  Music:"Spotify"
+  Music:"Spotify",
   
 }
 ```
