@@ -13,7 +13,7 @@ Hi there 👋
 const JohnOdonnell = {
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
   mainFrameworksAndLibraries: [React, Redux, Node, Flask, Express, Sequelize, Docker, Django, Diesel, Rocket],
-  OS: "Fedora":{
+  OS: ["Laptop":{
     "OS":"Fedora Linux 38",
     "GUI":"Gnome44",
     "Shell":"ZSH 5.9",
@@ -29,6 +29,20 @@ const JohnOdonnell = {
     "Rounded Window Corners", "User Themes"]
     
   },
+  "Desktop":{"OS":"Arch".
+    "WM":"Hyprland"
+    "Shell":"Bash 6.5.2-arch1-1",
+    "Theme":"Breeze-Dark",
+    "Icons":"breeze-dark",
+    "SDDM":"candy-dark",
+    "Terminal":"alacritty",
+    "CPU":"AMD Ryzen 7 3700x",
+    "GPU":"AMD Ryzen 7600",
+    "GPU":"NVIDIA 2080 SUPER",
+    "memory":"32014MiB",
+    "InterestingPackages":["pyWal, "W11 VM w/hardware passthroughs", "screen mirror for phone", "terminal plugin for GPT"]
+    
+  }]
   IDE:{
       "Name":"VS Code",
       "Extensions":["Atom Theme", "Background":{"Images":"anime theme"}, "Auto Rename Tag","autopep8","c/c++","Django",
