@@ -2,9 +2,10 @@
 <h1 align="center">
 Hi there 👋
 </h1>
-<p align="center" width="100%">
+<div align="center" width="100%" display="flex">
+  <h2>Welcome</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=10" align = "center"/>
-</p>
+</div>
 <div align="center" >
 <img height="180em" width="50%" margin="3%" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/>
 <img height="180em" width="50%" margin="3%" src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true" align = "center"/>
