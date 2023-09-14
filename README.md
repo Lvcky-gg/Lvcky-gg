@@ -2,7 +2,7 @@
 <h1 align="center">
 Hi there 👋
 </h1>
-<div align="center" width="100%" display="flex">
+<div align="center" width="100%" display="flex" flex-direction="row">
   <h2>Welcome</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=10" align = "center"/>
 </div>
