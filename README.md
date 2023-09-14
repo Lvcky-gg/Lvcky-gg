@@ -8,6 +8,11 @@ Hi there 👋
 
 ![Lvcky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true )
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
 
 
 
