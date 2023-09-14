@@ -9,7 +9,7 @@ Hi there 👋
 ![Lvcky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true )
 
 <p align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/>
+<img height="180em" src="https://streak-stats.demolab.com?username=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true" align = "center"/>
 </p>
 
