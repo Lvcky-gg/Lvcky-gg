@@ -29,7 +29,7 @@
 
 
 
-
+<div>
 ```javascript
 const JohnOdonnell = {
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
@@ -98,7 +98,7 @@ const JohnOdonnell = {
  height="100%"  src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
 
 </div>
-
+</div>
 
 
 
