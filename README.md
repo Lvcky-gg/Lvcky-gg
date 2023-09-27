@@ -29,7 +29,8 @@
 
 
 
-<div>
+<div display="flex" flex-direction="row">
+  <div>
 ```javascript
 const JohnOdonnell = {
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
@@ -87,6 +88,8 @@ const JohnOdonnell = {
   
 }
 ```
+</div>
+<div>
 <div align="center" width="100%" display="flex" flex-direction="row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=10" align = "center"/>
   </div>
@@ -97,6 +100,7 @@ const JohnOdonnell = {
   <img width="50%" margin="1%" 
  height="100%"  src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
 
+</div>
 </div>
 </div>
 
