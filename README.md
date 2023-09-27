@@ -31,6 +31,9 @@
 
 <div display="flex" flex-direction="row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=10" align = "center"/> 
+
+
+  
 ```javascript
 const JohnOdonnell = {
   code: [Javascript, Typescript, HTML, CSS,  Python, Rust],
