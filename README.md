@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/john-o-donnell-36a38a161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-o-donnell-36a38a161/" height="30" width="40" /></a>
 <a href="https://instagram.com/lvcky_gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lvcky_gg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/irishredales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irishredales" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lvcky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lvcky" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lvcky-gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lvcky-gg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
