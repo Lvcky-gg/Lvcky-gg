@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm John O'Donnell</h1>
-<h3 align="center">A well rounded Software Engineer from Minnesota.</h3>
+<h3 align="center">The quieter you become, the more you begin to hear</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" /> </p>
 
-- 🌱 I’m currently learning **Dotnet, Godot**
+- 🌱 I’m currently learning **Writing Enterprise level Java**
 
 - 🤝 I’m looking for help with **Open Source**
 
