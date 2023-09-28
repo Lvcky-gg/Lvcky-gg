@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Arch, Rust, Svelte**
 
-- 📫 How to reach me **johnodonnell@icloud.com**
+- 📫 How to reach me **johnodonnell1997@icloud.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit](https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit)
 
