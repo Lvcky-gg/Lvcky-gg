@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" /> </p>
 
-- 🌱 I’m currently learning **Writing Enterprise level Java**
+- 🌱 I’m currently learning **Writing Performative Enterprise Java**
 
 - 🤝 I’m looking for help with **Open Source**
 
