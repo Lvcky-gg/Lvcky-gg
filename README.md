@@ -30,9 +30,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" align = "center"/> 
 
 
- <img height="200px"  width="45%" margin="1%" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/>
-   <img width="45%" margin="1%" 
- height="200px"  src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
+ <img height="500px"  width="100%" margin="1%" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/>
+   <img width="100%" margin="1%" 
+ height="500px"  src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
 
 
 
