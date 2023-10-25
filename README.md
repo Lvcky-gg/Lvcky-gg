@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm John O'Donnell</h1>
 <h3 align="center">The quieter you become, the more you begin to hear</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
+<p align="left" display="fle" justify-content="space-evenly"> <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a><img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" />  </p>
  <img width="100%" 
  height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" />
 
-<p align="left" display="fle" justify-content="space-evenly"> <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a><img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" />  </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
+
+
+
 
 - 🌱 I’m currently learning **Writing Performative Enterprise Java**
 
