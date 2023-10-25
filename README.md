@@ -3,6 +3,8 @@
 <h3 align="center">The quieter you become, the more you begin to hear</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
+ <img width="100%" 
+ height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" /> </p>
 
@@ -31,8 +33,7 @@
 <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a>
  <img height="300px"  width="100%" margin-top="0px" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/> <img width="100%" 
  height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
- <img width="100%" 
- height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" />
+
 
 
 
