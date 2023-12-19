@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Writing Performative Enterprise Java**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 🤝 I’m looking for help with **Open Source**
 
