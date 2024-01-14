@@ -1,4 +1,4 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e3ccdbe-02dd-4165-b4ef-39f679f312c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h1 align="center">Hi 👋, I'm John O'Donnell</h1>
 <h3 align="center">The quieter you become, the more you begin to hear</h3>
 <p align="left" display="fle" justify-content="space-evenly"> <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a><img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" />  </p>
