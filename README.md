@@ -8,9 +8,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
 
 
+- CompTIA Security+ Certified
 
-
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **Open Source**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Arch, Rust, Svelte**
 
-- 📫 How to reach me **johnodonnell1997@icloud.com**
+- 📫 How to reach me **mail@johnodonnell.xyz**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit](https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit)
 
