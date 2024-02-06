@@ -10,7 +10,7 @@
 
 - CompTIA Security+ Certified
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS and C**
 
 - 🤝 I’m looking for help with **Open Source**
 
