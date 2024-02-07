@@ -6,6 +6,8 @@
  height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
+![image](https://github.com/Lvcky-gg/Lvcky-gg/assets/94711072/44966899-95fa-49c8-b1c7-42d41fe4e9ad)
+
 
 ```json
 {
