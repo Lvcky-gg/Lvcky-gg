@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
 
-```
+```json
 {
 "Name":"John O'Donnell",
 "IDE":"Neovim",
