@@ -7,20 +7,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/lvcky-gg/github-profile-trophy)
 
+```
+{
+"Name":"John O'Donnell",
+"IDE":"Neovim",
+"Operating System":"Arch",
+"Email":"mail@johnodonnell.xyz",
+"Certifications":["App Academy Graduate", "COMPTIA Security+"]
+}
+```
 
-- CompTIA Security+ Certified
-
-- 🌱 I’m currently learning **AWS and C**
-
-- 🤝 I’m looking for help with **Open Source**
-
-- 👨‍💻 All of my projects are available at [http://www.johnodonnell.xyz](http://www.johnodonnell.xyz)
+- 👨‍💻 All of my projects are available at [My Portfolio](http://www.johnodonnell.xyz)
 
 - 💬 Ask me about **Arch, Rust, Svelte**
 
-- 📫 How to reach me **mail@johnodonnell.xyz**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit](https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit)
+- 📄 Know about my experiences by clicking on [my resume](https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
