@@ -19,8 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](http://www.johnodonnell.xyz)
 
-- 💬 Ask me about **Arch, Rust, Svelte**
-
 - 📄 Know about my experiences by clicking on [my resume](https://docs.google.com/document/d/1V2y8HZf-zV6mbPII0DJ7MV_Vj6TgxegmPhp5XBcxYlM/edit)
 
 <h3 align="left">Connect with me:</h3>
