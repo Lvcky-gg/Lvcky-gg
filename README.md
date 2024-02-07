@@ -4,7 +4,8 @@
 <p align="left" display="fle" justify-content="space-evenly"> <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a><img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" />  </p>
  <img width="100%" 
  height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&layout=compact&langs_count=8" />
-![image](https://github.com/Lvcky-gg/Lvcky-gg/assets/94711072/44966899-95fa-49c8-b1c7-42d41fe4e9ad)
+![image](https://github.com/Lvcky-gg/Lvcky-gg/assets/94711072/9b5d194b-3d0d-48b3-8508-eabf459b279d)
+
 
 
 ```json
