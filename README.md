@@ -35,7 +35,7 @@
 
 
  <img height="300px"  width="100%" margin-top="0px" src="https://streak-stats.demolab.com?user=lvcky-gg&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=496&hide_longest_streak=true" align = "center"/> <img width="100%" 
- height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=10" align = "center"/>
+ height="300px" margin-top="0px" src="https://github-readme-stats.vercel.app/api?username=lvcky-gg&theme=nord&show_icons=true&hide_border=true&border_radius=8" align = "center"/>
 
 
 
