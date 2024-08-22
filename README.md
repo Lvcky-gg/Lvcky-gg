@@ -8,13 +8,26 @@
 
 
 
-```json
-{
-"Name":"John O'Donnell",
-"IDE":"Neovim",
-"Operating System":"Arch",
-"Email":"mail@johnodonnell.xyz",
-"Certifications":["App Academy Graduate", "COMPTIA Security+"]
+```rust
+struct Lvcky {
+    name: String,
+    age: i8,
+    is_alive: bool,
+    ide: String,
+    operating_system: String,
+    email: String,
+    certifications: Vec<String>
+}
+fn main(){
+    let lvcky = Lvcky{
+        name: "John O'Donnell".to_string(),
+        age: 27,
+        is_alive: true,
+        ide: "Neovim".to_string(),
+        operating_system: "Arch Linux".to_string(),
+        email: "mail@johnodonnell.xyz".to_string(),
+        certifications: vec!["App Academy Graduate".to_string(), "COMPTIA Security+".to_string()]
+    };
 }
 ```
 
