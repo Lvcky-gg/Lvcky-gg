@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm John O'Donnell</h1>
 <h3 align="center">The quieter you become, the more you begin to hear</h3>
-<p align="left" display="fle" justify-content="space-evenly"> <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a><img src="https://komarev.com/ghpvc/?username=lvcky-gg&label=Profile%20views&color=0e75b6&style=flat" alt="lvcky-gg" />  </p>
+<a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a>
+
 ```rust
 struct Lvcky {
     name: String,
