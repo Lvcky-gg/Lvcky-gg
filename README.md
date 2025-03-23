@@ -38,6 +38,7 @@ fn main(){
 <a href="https://instagram.com/irishredales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="filter: invert(60%) sepia(20%) saturate(300%) hue-rotate(90deg);" /></a>
 <a href="https://www.leetcode.com/lvcky-gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="filter: invert(60%) sepia(20%) saturate(300%) hue-rotate(90deg);" /></a>
 </p>
+### BTW, I use Arch
 
 
 
