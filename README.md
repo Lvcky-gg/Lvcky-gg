@@ -30,7 +30,7 @@ fn main(){
 }
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&langs_count=18)
 
 ### Connect with me:
 <p>
