@@ -29,7 +29,7 @@ fn main(){
     };
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&langs_count=14&hide=html,css,Dockerfile,makefile,SCSS,Vim Script)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcky-gg&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&hide_border=true&layout=compact&langs_count=14&hide=html,css,Dockerfile,makefile,SCSS,Vim%20Script)
 
 ### Connect with me:
 <p>
