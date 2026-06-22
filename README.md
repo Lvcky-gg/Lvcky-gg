@@ -30,8 +30,6 @@ fn main(){
 ```
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=lvcky-gg&theme=shadow)
 
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20Machine%20God%20is%20Dead%2C%20Long%20Live%20the%20Machine%20God&theme=shadow&color=%23513bf7&particleColor=%230C1016&background=%230C1016)
-
 ### Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/lvcky-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(60%) sepia(20%) saturate(300%) hue-rotate(90deg);" /></a>
