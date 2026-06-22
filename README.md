@@ -29,7 +29,7 @@ fn main(){
     };
 }
 ```
-[![Top Langs](https://vercel.app)](https://github.com/lvcky-gg/github-readme-stats)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=lvcky-gg&theme=shadow)
 
 
 
