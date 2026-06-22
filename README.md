@@ -2,7 +2,7 @@
 <a href="https://media.licdn.com/dms/image/v2/D4E03AQGzJYM10lvN-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721529085827?e=1747872000&v=beta&t=tms8XYLGhfZjn3sSXCcvTHSJ1lPE9JEZAy28aA-zhNs"></a>
 <div style="margin-top:2%;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=30&pause=1000&color=458588&center=true&vCenter=true&random=true&width=435&lines=+John+O'Donnell" alt="Typing SVG" /></a>
-<h3 align="center" style="color:#b16286">The machine god is dead, long live the machine god</h3>
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20Machine%20God%20is%20Dead%2C%20Long%20Live%20the%20Machine%20God&theme=shadow&color=%23513bf7&particleColor=%230C1016&background=%230C1016)
 <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" /></a>
 </div>
 </div>
