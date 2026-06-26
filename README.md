@@ -28,7 +28,7 @@ fn main(){
     };
 }
 ```
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=lvcky-gg&theme=shadow&hide=html,css,scss,make)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=lvcky-gg&theme=shadow)
 
 ### Connect with me:
 <p>
