@@ -30,7 +30,7 @@ fn main(){
 ```
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=calm&hide=html,css,vue)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/?username=lvcky-gg&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/?username=lvcky-gg&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=lvcky-gg%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 ### Connect with me:
 <p>
