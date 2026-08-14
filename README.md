@@ -28,7 +28,7 @@ fn main(){
     };
 }
 ```
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=radical&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=radical&hide=html,css,vue)](https://github.com/stats-organization/github-stats-extended)
 
 ### Connect with me:
 <p>
