@@ -30,6 +30,8 @@ fn main(){
 ```
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=calm&hide=html,css,vue)](https://github.com/stats-organization/github-stats-extended)
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/?username=lvcky-gg&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+
 ### Connect with me:
 <p>
 <a href="https://www.linkedin.com/in/lvcky-gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(60%) sepia(20%) saturate(300%) hue-rotate(90deg);" /></a>
