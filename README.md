@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQGzJYM10lvN-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721529085827?e=1747872000&v=beta&t=tms8XYLGhfZjn3sSXCcvTHSJ1lPE9JEZAy28aA-zhNs" width="130" alt="John O'Donnell" />
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQGzJYM10lvN-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721529085827?e=1789603200&v=beta&t=jaDiiHZoeZM6lkNUIFm-GXYdzpQ2X-hcqAa6DQc1TpA" width="130" alt="John O'Donnell" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=30&pause=1000&color=458588&center=true&vCenter=true&random=true&width=435&lines=+John+O'Donnell" alt="Typing SVG" /></a>
 
