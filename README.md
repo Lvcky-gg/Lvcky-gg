@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQGzJYM10lvN-g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1721529085827?e=1789603200&v=beta&t=jaDiiHZoeZM6lkNUIFm-GXYdzpQ2X-hcqAa6DQc1TpA" width="130" alt="John O'Donnell" />
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerd+Font&weight=600&size=30&pause=1000&color=458588&center=true&vCenter=true&random=true&width=435&lines=+John+O'Donnell" alt="Typing SVG" /></a>
 
 <a href="https://www.codewars.com/users/Lvcky-gg"><img src="https://www.codewars.com/users/Lvcky-gg/badges/large" alt="Codewars" /></a>
@@ -33,7 +31,7 @@ fn main(){
 
 <div align="center">
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=calm&hide=html,css,vue&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Lvcky-gg&theme=calm&hide=html,css,vue&langs_count=4)](https://github.com/stats-organization/github-stats-extended)
 [![Stats](https://github-stats-extended.vercel.app/api/?username=lvcky-gg&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=lvcky-gg%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
